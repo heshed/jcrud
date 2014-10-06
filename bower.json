@@ -1,0 +1,23 @@
+{
+  "name": "jcrud",
+  "version": "0.0.0",
+  "authors": [
+    "Heshed<binaa1@gmail.com>"
+  ],
+  "description": "bower for jcrud",
+  "license": "MIT",
+  "directory": "static",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0",
+    "underscore": "~1.7.0",
+    "uninstall": "*"
+  }
+}
